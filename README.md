@@ -18,3 +18,14 @@ then run the image you just built, to se how it looks:
 
 open a webbrowser and type __localhost__
 and voilà!
+
+## TODO
+
+- Write the photo stream view. 
+- secure the site (password or whatever)
+- write a webapp, or android/ios app to snap pictues and upload. 
+- set up a volume so images can be stored outside container. 
+- make title and description configurable.
+
+## done
+- photos upload to the container.
