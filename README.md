@@ -9,8 +9,9 @@ clone the repo down:
 
 navigate to the folder with the docker file and build an image:
 
-`cd Simple-sefhosted-photostream
-docker bulid -t my-simple-selfhosted-photostream .`
+`cd Simple-sefhosted-photostream`
+
+`docker bulid -t my-simple-selfhosted-photostream .`
 
 then run the image you just built, to se how it looks:
 
